@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏼‍🎓 I'm currently doing my BCA from Brainware University<br>🤖 I'm currently learning about ML & AL<br>🎨 My hobbies comes with playing online games 🎮, chess ♟️, and 2D&3DAnimation
+🧑🏼‍🎓 I'm currently doing my BCA from Brainware University<br>🤖 I'm currently learning about ML & AL<br>🎨 My hobbies comes with playing online games 🎮, chess ♟️, and 2D&3D Animation
 
 
 # 💻 Tech Stack:
